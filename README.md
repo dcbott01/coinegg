@@ -1,0 +1,2 @@
+# coinegg
+CoinEgg Bot
